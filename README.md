@@ -1,10 +1,5 @@
 ### Hello world! 👋
 
-📫 **Reach me via:** 
-[<img align="center" alt="fb" width="26px"  src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
-[<img align="center" alt="ig" width="26px"  src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
-  <br />
-
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
