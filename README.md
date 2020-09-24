@@ -4,7 +4,7 @@
 <img align="left" alt="javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-
+<img align="left" alt="react" width="26px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 
 
 <br />
@@ -28,29 +28,6 @@
 #### yes, even hidden code blocks!
 
 ```python
-print("hello world!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on my first unity 2D game.
