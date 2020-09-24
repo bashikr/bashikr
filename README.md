@@ -12,9 +12,38 @@
 
  
 
-//Here are some ideas to get you started:
-//- 🔭 I’m currently working on my first unity 2D game.
-//- 🤔 I'm looking to contribute on some open source projects, ideas?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here are some ideas to get you started:
+- 🔭 I’m currently working on my first unity 2D game.
+- 🤔 I'm looking to contribute on some open source projects, ideas?
  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
