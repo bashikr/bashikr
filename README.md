@@ -20,6 +20,9 @@
 
 <img align="left" alt="less" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>
 
+
+<img align="left" alt="less" width="26px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+
 <br></br>
 
 <img align="left" alt="less" width="26px" src="https://img.icons8.com/dusk/64/000000/windows-logo.png"/>
