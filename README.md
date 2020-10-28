@@ -46,7 +46,7 @@
 <details>
 <summary>
 
-# CLICK ME
+# Read More ...
 </summary>
 <p>
 
@@ -54,14 +54,10 @@
 
 ```python
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on my first unity 2D game.
-- 🤔 I'm looking to contribute on some open source projects, ideas?
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+Here are some ideas I am working on in the meanwhile:
+- 🔭 I’m currently working on a OOP Course in PHP and PHP Frameworks.
+- 🌱 I’m currently learning Statistic data analysis.
+- 💬 Ask me about anything ::::
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Bashar
+- ⚡ Fun fact: Learning programming is limitless.
