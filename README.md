@@ -64,4 +64,4 @@ Here are some ideas I am working on in the meanwhile:
 - 💬 Ask me about anything ::::
 
 - 😄 Pronouns: Bashar
-- ⚡ Fun fact: Learning programming is limitless.
+- ⚡ Fun fact: Learning programming tends to :infinity: .
