@@ -1,5 +1,9 @@
 ### Hello world! 👋
 
+My name is Bashar Altaleb. Web programming has always gotten my attention from the time I was in the second grade at high school. I remember taking a course in SharePoint to build a website. In 2018, I took a course in c# and I liked to dig more into programming mysterious. Consequently, in 2019, I decided to study web programming at the Blekinge Institute of Technology, and thankfully, I have been improving drastically. 
+
+Important advice is to do the things that make you happy, even though they feel hard to get sometimes.
+
 <br></br>
 
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
