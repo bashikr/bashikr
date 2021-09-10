@@ -14,7 +14,7 @@ Important advice is to do the things that make you happy, even though they feel 
 
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 
-<img src="https://img.icons8.com/ios-filled/50/000000/php.png"/>
+<img align="left" alt="php" width="26px" src="https://img.icons8.com/offices/40/000000/php-logo.png"/>
 
 <img align="left" alt="react" width="26px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 
