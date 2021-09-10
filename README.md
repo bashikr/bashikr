@@ -4,8 +4,6 @@ My name is Bashar Altaleb. Web programming has always gotten my attention from t
 
 Important advice is to do the things that make you happy, even though they feel hard to achieve sometimes.
 
-<br></br>
-
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
 
 <img align="left" alt="javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
