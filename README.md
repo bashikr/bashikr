@@ -27,6 +27,7 @@ Important advice is to do the things that make you happy, even though they feel 
 <img align="left" alt="less" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>
 
 <br></br>
+<img align="left" alt="mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 <img align="left" alt="less" width="26px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 
@@ -43,8 +44,6 @@ Important advice is to do the things that make you happy, even though they feel 
 <img align="left" alt="less" width="26px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 
 <img align="left" alt="less" width="26px" src="https://img.icons8.com/color/48/000000/debian.png"/>
-
-<img align="left" alt="mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 <br />
 <br />
