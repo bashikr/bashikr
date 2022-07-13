@@ -2,7 +2,7 @@
 
 My name is Bashar Altaleb. Web programming has always gotten my attention from the time I was in the second grade at high school. I remember taking a course in SharePoint to build a website. In 2018, I took a course in c# and I liked to dig more into programming mysterious. Consequently, in 2019, I decided to study web programming at the Blekinge Institute of Technology, and thankfully, I have been improving drastically.
 
-<a href="https://basharaltaleb.tech">
+<a href="https://basharaltaleb.tech"/>
 
 Important advice is to do the things that make you happy, even though they feel hard to achieve sometimes.
 
